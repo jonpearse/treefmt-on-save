@@ -1,0 +1,16 @@
+{
+  "incremental": false,
+  "typescript": {
+    "arrowFunction.useParentheses": "preferNone",
+    "bracePosition": "nextLine",
+    "quoteStyle": "preferSingle",
+    "spaceAround": true,
+    "spaceSurroundingProperties": true,
+    "useTabs": true,
+    "nextControlFlowPosition": "nextLine"
+  },
+  "plugins": [
+    "https://plugins.dprint.dev/typescript-0.88.8.wasm",
+    "https://plugins.dprint.dev/json-0.19.1.wasm"
+  ]
+}

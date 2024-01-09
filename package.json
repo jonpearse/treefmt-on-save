@@ -1,0 +1,24 @@
+{
+  "name": "treefmt-on-save",
+  "version": "0.2.0",
+  "author": "Jon Pearse <hello@jonpearse.net>",
+  "license": "MIT",
+  "description": "Autoformats files on save using Treefmt",
+  "main": "./lib/main",
+  "homepage": "https://github.com/jonpearse/treefmt-on-save",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonpearse/treefmt-on-save.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonpearse/treefmt-on-save/issues"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "keywords": [
+    "treefmt",
+    "autoformat",
+    "formatting"
+  ]
+}
