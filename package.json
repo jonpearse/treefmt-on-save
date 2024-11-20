@@ -8,7 +8,7 @@
   "homepage": "https://github.com/jonpearse/treefmt-on-save",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonpearse/treefmt-on-save.git"
+    "url": "git@github.com:jonpearse/treefmt-on-save.git"
   },
   "bugs": {
     "url": "https://github.com/jonpearse/treefmt-on-save/issues"
