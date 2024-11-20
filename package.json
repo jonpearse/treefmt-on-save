@@ -1,6 +1,6 @@
 {
   "name": "treefmt-on-save",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Jon Pearse <hello@jonpearse.net>",
   "license": "MIT",
   "description": "Autoformats files on save using Treefmt",
